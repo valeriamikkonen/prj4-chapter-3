@@ -14,10 +14,14 @@ h1 {
 header {
 	background-image: url("../images/background.jpg");
 }
+
 h3 {
 	text-align: end;
 	color: darkslategray;
 }
+.carousel {
+      width: 600px;
+      }
 p {
 	padding: 10px;
 	margin: 10px;
@@ -37,4 +41,21 @@ ul {
 }
 #footer {
 	color:darkblue;
+}
+button {
+	color: black;
+	align-content: center;
+}
+.card {
+	width: 14rem;
+}
+img{
+	height: 360px;
+}
+.jumbotron {
+	background-color: darkslateblue;
+	color: white;
+}
+.display-4 {
+	color: white;
 }
